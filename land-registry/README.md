@@ -106,9 +106,8 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author
-🔹 Subinesh  
-📧 subinesh.b2c@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/subinesh-b-92125a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | [GitHub](https://github.com/The-Whiz-Guy)
+Done by-GOTRU JAYAPAUL
+Gmail-ganand00777@gmail.com
 
 ---
 
